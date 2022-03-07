@@ -1,7 +1,7 @@
 const nameGirl = 'Như Ý m62';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng Ngày Quốc Tế Phụ Nữ 8-3';
-const titleCard = 'Tặng Em';
+const eventName = 'HAPPY WOMANS DAY';
+const titleCard = 'Tặng M62 ';
 const contentCard = 'Chúc em có một ngày 8-3 vui vẻ tràn đầy hạnh phúc với những món ăn ngon :> ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
