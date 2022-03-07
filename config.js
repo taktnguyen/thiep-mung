@@ -1,4 +1,4 @@
-const nameGirl = 'Như Ý m62';
+const nameGirl = 'Như Ý';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'HAPPY WOMANS DAY';
 const titleCard = 'Tặng M62 ';
